@@ -66,4 +66,4 @@ This project leverages Databricks to implement an ETL (Extract, Transform, Load)
 
 
 ## Demonstration
-- **Video Demo**: A concise walkthrough of the project is available here. ([Watch Demo](https://www.youtube.com/watch?v=ZXVcCGPI3Us)).
+- **Video Demo**: A concise walkthrough of the project is available here. ([Watch Demo](https://prodduke-my.sharepoint.com/:v:/r/personal/rc381_duke_edu/Documents/idsproj3.mov?csf=1&web=1&e=bpZU0X&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
